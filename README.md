@@ -1,5 +1,5 @@
 # Football_Mgmt
-Please set the port of the project in 6600. 
+Please set the port of the project to 6600. 
 
 APIs URLs:
 
